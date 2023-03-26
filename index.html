@@ -1,28 +1,26 @@
 <!DOCTYPE html>
-<style>
-    #ascii-art {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-</style>
-
 <html>
 <head>
     <title>Matrix Animation</title>
     <link rel="stylesheet" type="text/css" href="matrix.css">
+    <link rel="stylesheet" type="text/css" href="farbe_in_dein_leben.css"> <!-- Einbinden der neuen CSS-Datei -->
+    <style>
+        #ascii-art {
+            color: #a79393;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        a {
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body>
     <div class="background-animation"></div>
-    <pre id="ascii-art"></pre>
-    <script>
-        fetch('ASCII.txt')
-            .then(response => response.text())
-            .then(text => {
-                const asciiArt = document.getElementById('ascii-art');
-                asciiArt.textContent = text;
-            });
-    </script>
+    <pre id="ascii-art" class="ascii-art"></pre> <!-- Hinzufügen der neuen CSS-Klasse "ascii-art" -->
+    <script src="ascii-art_bling_bling.js"></script>
+    <script src="PopAniScript.js"></script>
 </body>
 </html>
