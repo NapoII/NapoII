@@ -3,7 +3,15 @@
 <h3 align="">A passionate hobby developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=napoii&label=Profile%20views&color=0e75b6&style=flat" alt="napoii" /> 
+<img src="https://img.shields.io/github/followers/NapoII?style=social" alt="napoii" /> <a href="https://discord.gg/g7EW4P65">
+    <img src="https://img.shields.io/discord/190307701169979393?style=plastic" alt="discord">
+</a>
 
+  
+  
+  
+  
+ 
 </p>
 
 <p align="left"> <a href="https://napoii.github.io/NapoII/"><img src="https://github-profile-trophy.vercel.app/?username=napoii&theme=onedark" alt="napoii" </p>
