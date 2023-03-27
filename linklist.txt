@@ -4,4 +4,5 @@ https://github.com/NapoII/Rust_Diesel_Calculator; A Rust Diesel Online Calculato
 https://github.com/NapoII/Rust-Code-Raid-Bot; Rust-Code-Raid-Bot
 https://github.com/NapoII/Discord_Rust_Team_bot; A Discord Rust Team Management bot
 https://github.com/NapoII/Rail-Nation-Bot; Rail-Nation-Bot
-https://github.com/NapoII/Rust-Bots, Rust-Bots
+https://github.com/NapoII/Rust-Bots; Rust-Bots
+https://github.com/NapoII/New_py_Code; Thats how i start a Py Projekt
