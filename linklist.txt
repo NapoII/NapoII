@@ -6,3 +6,4 @@ https://github.com/NapoII/Discord_Rust_Team_bot; A Discord Rust Team Management 
 https://github.com/NapoII/Rail-Nation-Bot; A Rail Nation Bot
 https://github.com/NapoII/Rust-Bots; A Collection of Rust Bots 
 https://github.com/NapoII/New_py_Code; Thats how i start a Py Projekt
+https://github.com/NapoII/logNow; My first officel pip package 
