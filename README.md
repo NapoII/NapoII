@@ -24,6 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=napoii&show_icons=true&locale=en&theme=onedark" alt="napoii"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=napoii&theme=onedark" alt="napoii" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=napoii&theme=onedark" alt="napoii" /></p>
+    
 <p align="center">
 <img src="https://raw.githubusercontent.com/NapoII/NapoII/233630a814f7979f575c7f764dbf1f4804b05332/Bottom.svg" alt="Github Stats" />
 </p>
