@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=napoii&show_icons=true&locale=en&theme=onedark" alt="napoii"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=napoii&theme=onedark" alt="napoii" /></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
