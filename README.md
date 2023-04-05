@@ -41,6 +41,6 @@
 <p>
 
 <p align="center">
-  <img src="Bottom.svg"
+  <img src="img\Bottom.svg"
     />
 </p>
