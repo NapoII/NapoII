@@ -14,19 +14,13 @@
 
 
 <p align="center">
-  <img src="img\python.gif" width="50" />
-  <img src="img\java.gif"
-   width="50" />
-  <img src="img\html.gif"
-   width="50" />
-  <img src="img\css.gif"
-   width="50" />
-  <img src="img\git.gif"
-   width="50" />
-  <img src="img\github.gif"
-   width="50" />
-  <img src="img\vsc.gif"
-   width="50" />
+  <img src="img\python.gif"   width="80" />
+  <img src="img\java.gif"     width="80" />
+  <img src="img\html.gif"     width="80" />
+  <img src="img\css.gif"      width="80" />
+  <img src="img\git.gif"      width="80" />
+  <img src="img\github.gif"   width="80" />
+  <img src="img\vsc.gif"      width="80" />
 <p>
 
 ---
