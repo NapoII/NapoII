@@ -12,7 +12,6 @@
 
 ---
 
-
 <p align="center">
   <img src="img\python.gif"   width="80" />
   <img src="img\java.gif"     width="80" />
@@ -24,7 +23,14 @@
 <p>
 
 ---
+  
+<p align="center">
+  <img src="img\ps.gif"   width="80" />
+  <img src="img\pr.gif"     width="80" />
+  <img src="img\paint.gif"     width="80" />
+<p>
 
+---
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NapoII&theme=dark" />
   <img src="ihttp://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NapoII&theme=dark"/>
