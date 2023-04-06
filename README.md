@@ -27,6 +27,7 @@
 <p align="center">
   <img src="img\ps.gif"   width="80" />
   <img src="img\pr.gif"     width="80" />
+  <img src="img\ae.gif"     width="80" />
   <img src="img\paint.gif"     width="80" />
 <p>
 
