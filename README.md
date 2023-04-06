@@ -29,6 +29,7 @@
   <img src="img\pr.gif"     width="80" />
   <img src="img\ae.gif"     width="80" />
   <img src="img\paint.gif"     width="80" />
+  <img src="img\aud.gif"     width="80" />
 <p>
 
 ---
