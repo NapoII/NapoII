@@ -9,3 +9,4 @@ https://hub.qovery.com/guides/tutorial/create-and-deploy-python-discord-bot/)
 - [ ] Max cam ¬ dogphone
 - [ ] Add missing requirements.txt to all rep
 - [ ] add Tags to all rep
+- [ ] Rework Rust bots
