@@ -1,5 +1,9 @@
 <center>
 
+<p align="center">
+  <img src="img\CC.gif"      width="200" />
+<p>
+
 <h1 align="center"><a href="https://napoii.github.io/NapoII/">Napo_II</a></h1>
 
 <p align="center">
