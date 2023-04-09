@@ -4,7 +4,7 @@
   <img src="img\CC.gif"      width="200" />
 <p>
 
-<h1 align="center"><a href="https://napoii.github.io/NapoII/">Napo_II</a></h1>
+<h1 align="center"><img src="img\Napo_II.gif"      width="500" /></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=napoii&label=Profile%20views&color=0e75b6&style=flat"  />
