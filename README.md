@@ -30,6 +30,7 @@
   <img src="img\ae.gif"     width="80" />
   <img src="img\paint.gif"     width="80" />
   <img src="img\aud.gif"     width="100" />
+  <img src="img\fake_maus.gif"     />
 <p>
 
 ---
