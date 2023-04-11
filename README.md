@@ -1,10 +1,12 @@
 <center>
 
 <h1 align="center">
-  <img src="img\PyChamp_gif_logo.gif" width="200" />
+  <a href="https://www.youtube.com/channel/UCA9JRgMqaKB6XfLYkh2Dsjw">
+    <img src="img\PyChamp_gif_logo.gif" width="200" />
+  </a>
   <img src="img\CC.gif" width="200" />
-
 </h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=napoii&label=Profile%20views&color=0e75b6&style=flat"  />
