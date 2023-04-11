@@ -1,8 +1,9 @@
 <center>
 
 <h1 align="center">
-  <img src="img\CC.gif" width="200" />
   <img src="img\PyChamp_gif_logo.gif" width="200" />
+  <img src="img\CC.gif" width="200" />
+
 </h1>
 
 <p align="center">
