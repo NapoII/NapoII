@@ -1,6 +1,9 @@
 <center>
 
-<h1 align="center"><img src="img\CC.gif"      width="200" /></h1>
+<h1 align="center">
+  <img src="img\CC.gif" width="200" />
+  <img src="img\PyChamp_gif_logo.gif" width="200" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=napoii&label=Profile%20views&color=0e75b6&style=flat"  />
