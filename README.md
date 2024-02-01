@@ -6,7 +6,7 @@
   </a>
   <img src="img\CC.gif" width="200" />
   <a href="https://ko-fi.com/napo_ii">
-    <img src="https://seeklogo.com/images/B/buy-me-a-coffee-logo-F1878A1EB2-seeklogo.com.png" width="120" />
+    <img src="/NapoII/img/kofi.gif" width="270" />
   
 </h1>
 
