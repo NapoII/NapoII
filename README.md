@@ -7,7 +7,6 @@
   <img src="img\CC.gif" width="200" />
   <a href="https://ko-fi.com/napo_ii">
     <img src="img/kofi.gif" width="270" />
-  
 </h1>
 
 
@@ -22,14 +21,39 @@
 ---
 
 <p align="center">
-  <img src="img\python.gif"   width="80" />
-  <img src="img\java.gif"     width="80" />
-  <img src="img\html.gif"     width="80" />
-  <img src="img\css.gif"      width="80" />
-  <img src="img\git.gif"      width="80" />
-  <img src="img\github.gif"   width="80" />
-  <img src="img\vsc.gif"      width="80" />
-<p>
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="img\python.gif" width="80" />
+  </a>
+  
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="img\java.gif" width="80" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="img\html.gif" width="80" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="img\css.gif" width="80" />
+  </a>
+  
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="img\git.gif" width="80" />
+  </a>
+  
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="img\github.gif" width="80" />
+  </a>
+  
+  <a href="https://discordpy.readthedocs.io/en/latest/" target="_blank">
+    <img src="/img/discord_bot.gif" width="100" />
+  </a>
+  
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="img\vsc.gif" width="80" />
+  </a>
+</p>
+
 
 ---
   
