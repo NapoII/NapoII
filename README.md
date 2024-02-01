@@ -6,7 +6,7 @@
   </a>
   <img src="img\CC.gif" width="200" />
   <a href="https://ko-fi.com/napo_ii">
-    <img src="/NapoII/img/kofi.gif" width="270" />
+    <img src="img/kofi.gif" width="270" />
   
 </h1>
 
