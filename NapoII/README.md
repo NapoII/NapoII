@@ -58,13 +58,31 @@
 ---
   
 <p align="center">
-  <img src="img\ps.gif"   width="80" />
-  <img src="img\pr.gif"     width="80" />
-  <img src="img\ae.gif"     width="80" />
-  <img src="img\paint.gif"     width="80" />
-  <img src="img\aud.gif"     width="100" />
-  <img src="img\fake_maus.gif"     />
-<p>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+    <img src="img\ps.gif" width="80" />
+  </a>
+  
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="img\pr.gif" width="80" />
+  </a>
+  
+  <a href="https://helpx.adobe.com/after-effects/user-guide.html" target="_blank">
+    <img src="img\ae.gif" width="80" />
+  </a>
+  
+  <a href="https://docs.microsoft.com/en-us/windows/mspaint/" target="_blank">
+    <img src="img\paint.gif" width="80" />
+  </a>
+  
+  <a href="https://www.audacityteam.org/documentation/" target="_blank">
+    <img src="img\aud.gif" width="100" />
+  </a>
+  
+  <a href="#fake-link" target="_blank">
+    <img src="img\fake_maus.gif" />
+  </a>
+</p>
+
 
 ---
 <p align="center">
