@@ -14,7 +14,7 @@
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.rust-collection.eu%2F&up_message=www.rust-collection.eu&down_message=https%3A%2F%2Fwww.rust-collection.eu%2F&style=for-the-badge&logo=html5&logoColor=E34F26&label=https%3A%2F%2F&color=red&link=https%3A%2F%2Frust-collection.eu.de%2F)](https://www.rust-collection.eu/)
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.rust-collection.eu%2F&up_message=Wheel%20of%20Fortune&down_message=https%3A%2F%2Fwww.napo-ii.de%2F&style=for-the-badge&logo=discord&logoColor=5865F2&label=Discord%20Bot&color=blue&link=https%3A%2F%2Fwww.rust-collection.eu%2FRust_Collection%2Fwheel_of_fortune_discord_bot_promo%2Fpromo.html)]()
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.rust-collection.eu%2F&up_message=Wheel%20of%20Fortune&down_message=https%3A%2F%2Fwww.napo-ii.de%2F&style=for-the-badge&logo=discord&logoColor=5865F2&label=Discord%20Bot&color=blue&link=https%3A%2F%2Fwww.rust-collection.eu%2FRust_Collection%2Fwheel_of_fortune_discord_bot_promo%2Fpromo.html)](https://www.rust-collection.eu/Rust_Collection/wheel_of_fortune_discord_bot_promo/promo.html)
 
 
 <p align="center">
