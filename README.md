@@ -3,11 +3,12 @@
 <img src="img/Banner_top.png" alt="Python Logo" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=napoii&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=napoii&label=Profilaufrufe&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/NapoII?style=for-the-badge&logo=github"/>
-<a href="https://discord.gg/Gd23KJ76Tq"><img src="https://img.shields.io/discord/190307701169979393?style=for-the-badge"/>
-<a href="https://ko-fi.com/napo_ii"><img src="https://ko-fi.com/img/githubbutton_sm.svg" />
-<p>
+  <a href="https://discord.gg/Gd23KJ76Tq"><img src="https://img.shields.io/discord/190307701169979393?style=for-the-badge"/></a>
+  <a href="https://ko-fi.com/napo_ii"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+</p>
+
 
 <p align="center">
 <h2>Programming Languages</h2>
