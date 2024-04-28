@@ -1,10 +1,10 @@
 
-<center>
-<img src="img/Banner_top.png" alt="Python Logo" />
 
+<img src="img/Banner_top.png" alt="Python Logo" />
+<p align="center">
 <h2>Programming Languages</h2>
 
-<p align="center">
+
 
 <a href="https://docs.python.org" target="_blank">
     <img src="img/python.gif" width="80" alt="Python Logo" />
