@@ -1,9 +1,0 @@
-https://github.com/NapoII/Long-Time-Speedtest; My very first Python project ever - Long-Time-Speedtest
-https://github.com/NapoII/Prompt-Filter; A filter for prompts related to Stable Diffusion
-https://github.com/NapoII/Rust_Diesel_Calculator; A Rust Diesel Online Calculator
-https://github.com/NapoII/Rust-Code-Raid-Bot; A Rust-Code-Raid-Bot
-https://github.com/NapoII/Discord_Rust_Team_bot; A Discord Rust Team Management bot
-https://github.com/NapoII/Rail-Nation-Bot; A Rail Nation Bot
-https://github.com/NapoII/Rust-Bots; A Collection of Rust Bots 
-https://github.com/NapoII/New_py_Code; Thats how i start a Py Projekt
-https://github.com/NapoII/logNow; My first officel pip package 

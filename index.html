@@ -1,26 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
-    <title>Matrix Animation</title>
-    <link rel="stylesheet" type="text/css" href="matrix.css">
-    <link rel="stylesheet" type="text/css" href="farbe_in_dein_leben.css"> <!-- Einbinden der neuen CSS-Datei -->
-    <style>
-        #ascii-art {
-            color: #a79393;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-        }
-        a {
-            text-decoration: none;
-        }
-    </style>
+<meta charset="UTF-8">
+<title>Napo-ii Animation</title>
+<style>
+  @font-face {
+    font-family: 'CustomFont';
+    src: url('font.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  html {
+    height: 100%; /* Höhe auf 100% für den html-Tag setzen */
+    margin: 0; /* Margin auf 0 setzen */
+  }
+
+  body {
+    margin: 0; /* Margin auf 0 setzen */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom left, #FCAD72, #736FA3);
+    color: white;
+    font-family: 'CustomFont', Arial, sans-serif;
+    font-size: 8em;
+    text-align: center;
+    min-height: 100vh; /* Mindesthöhe auf 100% des Viewport setzen */
+    padding: 0; /* Padding auf 0 setzen, um den Rand zu entfernen */
+  }
+
+  .logo, .animated-text {
+    opacity: 0;
+    animation: fadeIn 15s ease forwards;
+  }
+
+  .logo {
+    width: 450px;
+    height: auto;
+    margin-bottom: 0; /* Abstand zwischen Logo und Text entfernen */
+  }
+
+  .animated-text {
+    margin-top: 0; /* Entfernen des zusätzlichen Abstandes oben, falls vorhanden */
+  }
+</style>
 </head>
 <body>
-    <div class="background-animation"></div>
-    <pre id="ascii-art" class="ascii-art"></pre> <!-- Hinzufügen der neuen CSS-Klasse "ascii-art" -->
-    <script src="ascii-art_bling_bling.js"></script>
-    <script src="PopAniScript.js"></script>
+<img class="logo animated-text" src="logo.png" alt="Logo"> <!-- Logo-Bild hinzugefügt und animiert -->
+<div class="animated-text">Napo II</div>
 </body>
 </html>

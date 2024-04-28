@@ -8,7 +8,7 @@
 - [x] New gif Banner 
 - [ ] Max cam ¬ dogphone (rip MAX i miss you) Max gif
 - [ ] Add missing requirements.txt to all rep
-- [ ] add Tags to all rep
+- [x] add Tags to all rep
 - [ ] Rework Rust bots
-- [ ] Auto Logo to gif script with Fresco
 - [ ] Napo_II Git aufräumen
+- [x] Rust Glücksrad (gif drehn + liste mit daten = grad = zahl)
