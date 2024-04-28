@@ -8,6 +8,13 @@
   <a href="https://discord.gg/Gd23KJ76Tq"><img src="https://img.shields.io/discord/190307701169979393?style=for-the-badge"/></a>
   <a href="https://ko-fi.com/napo_ii"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 </p>
+<h2>Projekts</h2>
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.napo-ii.de%2F&up_message=www.napo-ii.de&down_message=https%3A%2F%2Fwww.napo-ii.de%2F&style=for-the-badge&logo=html5&logoColor=E34F26&label=https%3A%2F%2F&color=orange&link=https%3A%2F%2Fwww.napo-ii.de%2F)](https://www.napo-ii.de/)
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.rust-collection.eu%2F&up_message=www.rust-collection.eu&down_message=https%3A%2F%2Fwww.rust-collection.eu%2F&style=for-the-badge&logo=html5&logoColor=E34F26&label=https%3A%2F%2F&color=red&link=https%3A%2F%2Frust-collection.eu.de%2F)](https://www.rust-collection.eu/)
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.rust-collection.eu%2F&up_message=Wheel%20of%20Fortune&down_message=https%3A%2F%2Fwww.napo-ii.de%2F&style=for-the-badge&logo=discord&logoColor=5865F2&label=Discord%20Bot&color=blue&link=https%3A%2F%2Fwww.rust-collection.eu%2FRust_Collection%2Fwheel_of_fortune_discord_bot_promo%2Fpromo.html)]()
 
 
 <p align="center">
